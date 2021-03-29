@@ -35,8 +35,8 @@ export default {
   data(){
     return {
       tab : "login",
-      baseurl: "https://james.local/jbx/backend/",
-      //baseurl: "https://shiplabel.navitag.net/vercel-test/",
+      //baseurl: "https://james.local/jbx/backend/",
+      baseurl: "https://shiplabel.navitag.net/vercel-test/",
       booker: null,
       loading: true,
       dismissmsg: false
